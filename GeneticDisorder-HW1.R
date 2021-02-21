@@ -5,8 +5,8 @@
 
 # A = person tests positive
 # B = person has the disorder
-# ~A = person tests negative, a.k.a. A-complement
-# ~B = person does not have disorder, a.k.a. B-complement
+# ~A = person tests negative (A-complement)
+# ~B = person does not have disorder (B-complement)
 
 #f simulates n tests to determine prob of B given A for any prob B
 #for a known "prob of A given B" and known "prob of A given ~B"
